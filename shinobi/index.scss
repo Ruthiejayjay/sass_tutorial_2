@@ -4,15 +4,18 @@
 
 //base and layout
 @import '_base';
+@import '_breakpoints';
+@import '_grid';
 
 //colors
 @import '_colors';
 
 //components
 @import 'components/card';
-@import 'components/button'
+@import 'components/button';
 
 
 //utilities
+@import '_utilities';
 
 
